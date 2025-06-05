@@ -192,8 +192,8 @@ const file_weatherpb_v1_weather_proto_rawDesc = "" +
 	"\x0fCONDITION_RAINY\x10\x022a\n" +
 	"\x0eWeatherService\x12O\n" +
 	"\n" +
-	"GetWeather\x12\x1f.weatherpb.v1.GetWeatherRequest\x1a .weatherpb.v1.GetWeatherResponseB\xbc\x01\n" +
-	"\x10com.weatherpb.v1B\fWeatherProtoP\x01ZIgithub.com/luthersystems/nested-proto-submodule/generated/weatherpb/v1;v1\xa2\x02\x03WXX\xaa\x02\fWeatherpb.V1\xca\x02\fWeatherpb\\V1\xe2\x02\x18Weatherpb\\V1\\GPBMetadata\xea\x02\rWeatherpb::V1b\x06proto3"
+	"GetWeather\x12\x1f.weatherpb.v1.GetWeatherRequest\x1a .weatherpb.v1.GetWeatherResponseB\xc4\x01\n" +
+	"\x10com.weatherpb.v1B\fWeatherProtoP\x01ZQgithub.com/luthersystems/proto-submodule-nested-sandbox/generated/weatherpb/v1;v1\xa2\x02\x03WXX\xaa\x02\fWeatherpb.V1\xca\x02\fWeatherpb\\V1\xe2\x02\x18Weatherpb\\V1\\GPBMetadata\xea\x02\rWeatherpb::V1b\x06proto3"
 
 var (
 	file_weatherpb_v1_weather_proto_rawDescOnce sync.Once

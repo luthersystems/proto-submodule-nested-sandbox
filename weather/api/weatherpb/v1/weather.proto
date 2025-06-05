@@ -4,7 +4,7 @@ package weatherpb.v1;
 
 import "google/type/date.proto";
 
-option go_package = "github.com/luthersystems/nested-proto-submodule/generated/weatherpb/v1;v1";
+option go_package = "github.com/luthersystems/proto-submodule-nested-sandbox/generated/weatherpb/v1;v1";
 
 enum Condition {
   CONDITION_UNSPECIFIED = 0;
