@@ -1,4 +1,4 @@
-module github.com/luthersystems/nested-proto-submodule
+module github.com/luthersystems/proto-submodule-nested-sandbox
 
 go 1.24.2
 
